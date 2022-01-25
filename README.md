@@ -19,7 +19,7 @@
   <a name='description'></a>
   ## Description
 
-  An application to help expedite the creation process of a ReadMe file from the cammand line
+  Build the back-end for an e-commerce website. Configure a working Express.js API to use Sequelize to interact with a Mysql database. 
 
   ## Links
 
@@ -35,7 +35,7 @@
   <a name='usage'></a>
   ## Usage
 
-  To assist in the generation of a ReadMe file
+  To provide the latest technologies to the back-end of an e-commerce website
 
   <a name='contribute'></a>
   ## Contributers
@@ -49,7 +49,7 @@
 
   <a name='license'></a>
   ## Lincenses
-  ![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg) https://opensource.org/licenses/MPL-2.0
+  ![License: ISC 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg) https://opensource.org/licenses/ISC
 
   <a name='questions'></a>
   ## Questions
